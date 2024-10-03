@@ -52,7 +52,7 @@ menu:
 Control the text color of an icon using the `icon-{color}` utilities.
 
 {{< example class="bg-grid-slate-100 text-center">}}
-<i class="fa-solid fa-bell fa-3x icon-primary"></i>
+<i class="fa-solid fa-bell fa-3x icon-info"></i>
 {{</ example >}}
 
 In the dark Mode
